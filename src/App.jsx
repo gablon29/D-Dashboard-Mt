@@ -1,10 +1,10 @@
 import "./App.css";
-import CardBase from "./components/CardBase";
+import TabIndex from "./components/TabIndex";
 
 function App() {
   return (
     <>
-      <CardBase />
+      <TabIndex />
     </>
   );
 }
